@@ -2,7 +2,9 @@
 Make sure you make a PR to your own repo's main and not the class' repo!! Otherwise you will lose points!!
 Ethan Tran
 
-https://chickenlittle5.github.io/Lab5_Starter/
+https://chickenlittle5.github.io/Lab5_Starter/expose.html
+https://chickenlittle5.github.io/Lab5_Starter/explore.html
+
 
 1. I would not use only a unit test to test the full "message" feature of a messaging application because sending a message has many steps that work together in tandem. For example, the text input, send button, database, and the users receiving the message. The unit test could test one feature or a small part of a feature but not the full message feature because that would be tested with an integration or end-to-end test.
 
